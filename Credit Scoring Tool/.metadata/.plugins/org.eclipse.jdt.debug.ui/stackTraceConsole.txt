@@ -1,0 +1,107 @@
+java.lang.Error: Unresolved compilation problems: 
+	Syntax error on token "import", assert expected
+	java.awt.BorderLayout cannot be resolved to a variable
+	Syntax error on token "import", yield expected
+	java.sql.Connection cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	java.sql.DriverManager cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	java.sql.PreparedStatement cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	java.sql.ResultSet cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	java.sql.SQLException cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	java.awt.EventQueue cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	javax.swing.JFrame cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	javax.swing.JPanel cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	javax.swing.border.EmptyBorder cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	java.awt.Color cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	javax.swing.JLabel cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	javax.swing.JOptionPane cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	javax.swing.SwingConstants cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	java.awt.Font cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	javax.swing.UIManager cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	javax.swing.JTextField cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	javax.swing.JButton cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	java.awt.event.ActionListener cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	java.sql.Statement cannot be resolved to a variable
+	Syntax error on token "import", assert expected
+	java.awt.event.ActionEvent cannot be resolved to a variable
+	Illegal modifier for the local class home; only abstract or final is permitted
+	JFrame cannot be resolved to a type
+	JPanel cannot be resolved to a type
+	JTextField cannot be resolved to a type
+	JTextField cannot be resolved to a type
+	JTextField cannot be resolved to a type
+	JTextField cannot be resolved to a type
+	JTextField cannot be resolved to a type
+	The method main cannot be declared static; static methods can only be declared in a static or top level type
+	EventQueue cannot be resolved
+	The method setVisible(boolean) is undefined for the type home
+	The method setResizable(boolean) is undefined for the type home
+	JFrame cannot be resolved to a variable
+	The method setBounds(int, int, int, int) is undefined for the type home
+	JPanel cannot be resolved to a type
+	JPanel cannot be resolved to a type
+	JPanel cannot be resolved to a type
+	Color cannot be resolved to a type
+	JPanel cannot be resolved to a type
+	EmptyBorder cannot be resolved to a type
+	JPanel cannot be resolved to a type
+	JPanel cannot be resolved to a type
+	JLabel cannot be resolved to a type
+	JLabel cannot be resolved to a type
+	Font cannot be resolved to a type
+	Font cannot be resolved to a variable
+	Color cannot be resolved to a type
+	JPanel cannot be resolved to a type
+	JPanel cannot be resolved to a type
+	JPanel cannot be resolved to a type
+	Color cannot be resolved to a type
+	Color cannot be resolved to a type
+	JPanel cannot be resolved to a type
+	JLabel cannot be resolved to a type
+	JLabel cannot be resolved to a type
+	Font cannot be resolved to a type
+	Font cannot be resolved to a variable
+	Color cannot be resolved to a type
+	JLabel cannot be resolved to a type
+	JLabel cannot be resolved to a type
+	Color cannot be resolved to a type
+	Font cannot be resolved to a type
+	Font cannot be resolved to a variable
+	UIManager cannot be resolved
+	JLabel cannot be resolved to a type
+	JLabel cannot be resolved to a type
+	Color cannot be resolved to a type
+	Font cannot be resolved to a type
+	Font cannot be resolved to a variable
+	UIManager cannot be resolved
+	JTextField cannot be resolved to a type
+	JTextField cannot be resolved to a type
+	JTextField cannot be resolved to a type
+	JTextField cannot be resolved to a type
+	JTextField cannot be resolved to a type
+	JTextField cannot be resolved to a type
+	ActionEvent cannot be resolved to a type
+	ActionEvent cannot be resolved to a type
+
+	at homeTest.test(homeTest.java:9)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:568)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1511)
+
